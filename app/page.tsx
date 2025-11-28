@@ -662,16 +662,15 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl flex-col gap-4 px-4 md:flex-row md:items-center md:justify-between">
           <div className="space-y-1 text-xs">
             <p className="font-semibold text-slate-100">
-              GLOBODAI SOFTWARE – Éditeur de la solution Renov’IA
+              FLEURENT ARCHITECTES & GCC EURECA – Éditeur de la solution Renov’IA
             </p>
-            <p>10 Rue de Penthièvre, 75008 Paris – France</p>
+            <p>LYON – France</p>
             <p>
-              Tel : (+33) 6 51 57 33 38 –{" "}
               <a
                 href="mailto:anthony@globodai.com"
                 className="underline decoration-emerald-500/70 decoration-2 underline-offset-4 hover:text-white"
               >
-                anthony@globodai.com
+                contact@cdsm.io
               </a>
             </p>
           </div>
